@@ -1,7 +1,7 @@
 # PryingEyes
 
 A small tool that will list processes as they are created in realtime.
-It will also report if a program changes its commandline arguments. This can be interesting because it is a typical way to hide sensitive information.
+It will also report if a program changes its commandline arguments. This can be interesting because it is a typical way to hide sensitive information, such as passwords or IP addresses as command line arguments.
 
 Works on linux with /proc/ filesystem.
 Might work on other unixes with some modifications.
